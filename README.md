@@ -1,16 +1,26 @@
-# flutter_databast
 
-A new Flutter project.
+# Recording app
 
-## Getting Started
+Mini App 02 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/%2B.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Counting-app-Flutter-Getx-/blob/main/image_git/-.jpg" width="150" style="margin-right: 20px;"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
+- Flutter
+-   Dart
+- INSERT and SELECT
+## library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run this command:
+
+```bash
+  flutter pub add path_provider
+```
+```bash
+  flutter pub add path
+```
+```bash
+  flutter pub add sembast
+```
